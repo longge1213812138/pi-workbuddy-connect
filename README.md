@@ -20,7 +20,7 @@
 > 仓库地址：<https://github.com/longge1213812138/pi-workbuddy-connect>
 把已登录的 **WorkBuddy / WorkBuddy AI** 桌面 App 中可用的模型接入 **Pi Agent CLI**（`/model` 模型选择器、`/thinking` 推理档位、图片输入、余额状态栏、档位检测、按账号模型显隐）。
 
-这是 `dsh-workbuddy-connect`（DeepSeek Harness 插件）功能在 Pi 上的**路线 A 原生 Provider 实现**：零额外配置，直接复用桌面 App 的登录状态，账号切换自动跟随，国内版与国际版互不影响。
+这是 `dsh-workbuddy-connect`（DeepSeek Harness 插件）功能在 Pi 上的**原生 Provider 实现**：零额外配置，直接复用桌面 App 的登录状态，账号切换自动跟随，国内版与国际版互不影响。
 
 ```
 WorkBuddy 私有 API
